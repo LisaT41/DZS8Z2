@@ -1,0 +1,15 @@
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/bin/Debug/net6.0/Za2
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/bin/Debug/net6.0/Za2.deps.json
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/bin/Debug/net6.0/Za2.runtimeconfig.json
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/bin/Debug/net6.0/Za2.dll
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/bin/Debug/net6.0/Za2.pdb
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.csproj.AssemblyReference.cache
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.AssemblyInfoInputs.cache
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.AssemblyInfo.cs
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.csproj.CoreCompileInputs.cache
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.dll
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/refint/Za2.dll
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.pdb
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/Za2.genruntimeconfig.cache
+/Users/lisa/Desktop/my seminars/Seminar7C/Za2/obj/Debug/net6.0/ref/Za2.dll
